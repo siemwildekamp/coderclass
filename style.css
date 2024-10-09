@@ -1,0 +1,23 @@
+head {
+    background-color: bisque;
+    color: brown;
+}
+body {
+    background-color: rgba(202, 239, 191, 0.57);
+    color: aqua;
+}
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(216, 65, 206);
+    background-color: blue;
+}
+td {
+    background-color: rgba(174, 240, 241, 0.177);
+}
+tr {
+    background-color: lightskyblue;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
